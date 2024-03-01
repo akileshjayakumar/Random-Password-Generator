@@ -170,19 +170,6 @@ body {
   cursor: pointer;
 }
 
-.footer {
-  background-color: #000000;
-  color: #ffffff;
-  text-align: center;
-  padding: 10px;
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  z-index: 3;
-  font-size: 16px;
-}
-
 .options .option label {
   cursor: pointer;
   color: #4f4f4f;
@@ -201,4 +188,18 @@ body {
   border-radius: 5px;
   text-transform: uppercase;
   margin: 0.94rem 0 1.3rem;
+}
+
+.footer {
+  background-color: #000000;
+  color: #ffffff;
+  text-align: center;
+  padding: 5px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  z-index: 3;
+  font-size: 16px;
+  font-weight: 600;
 }
