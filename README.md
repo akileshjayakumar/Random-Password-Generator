@@ -1,4 +1,4 @@
-# [Password Generator Project](https://akileshjayakumar.github.io/password-generator/)
+# [Password Generator](https://akileshjayakumar.github.io/password-generator/)
 
 ## Key Features
 
