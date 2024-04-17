@@ -42,8 +42,6 @@ Contributions are highly encouraged! If you would like to improve the applicatio
 
 ## Contact Information
 
-For any questions or suggestions, please reach out to me via:
-
 - **Email**: [jayakuma006@mymail.sim.edu.sg](mailto:jayakuma006@mymail.sim.edu.sg)
 - **LinkedIn**: [Akilesh Jayakumar on LinkedIn](https://www.linkedin.com/in/akileshjayakumar/)
 - **GitHub**: [Akilesh Jayakumar on GitHub](https://github.com/akileshjayakumar)
