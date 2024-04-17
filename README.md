@@ -1,9 +1,5 @@
 # [Password Generator Project](https://akileshjayakumar.github.io/password-generator/)
 
-## Introduction
-
-Welcome to the Password Generator Project! This web application showcases my web development expertise by providing a practical and user-friendly tool for generating secure passwords. Developed using HTML, CSS, and JavaScript, it delivers a dynamic user experience designed to meet diverse security needs.
-
 ## Key Features
 
 - **Customizable Password Length**: Users can specify the desired length of their passwords, enhancing security.
