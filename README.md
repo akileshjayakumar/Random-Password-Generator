@@ -1,27 +1,27 @@
-Password Generator Project
+# [Password Generator Project](https://akileshjayakumar.github.io/password-generator/)
 
 ## Introduction
 
-Welcome to the Password Generator Project! This web application demonstrates my web development skills by providing a practical and user-friendly tool for generating secure passwords. Built with HTML, CSS, and JavaScript, it offers a dynamic user experience tailored to meet diverse security needs.
+Welcome to the Password Generator Project! This web application showcases my web development expertise by providing a practical and user-friendly tool for generating secure passwords. Developed using HTML, CSS, and JavaScript, it delivers a dynamic user experience designed to meet diverse security needs.
 
 ## Key Features
 
-- **Customizable Password Length:** Users can set the desired length of their passwords, enhancing security.
-- **Character Type Selection:** Includes options for lowercase, uppercase, numbers, and symbols to diversify character use.
-- **No Duplicate Characters:** Adds an option to exclude duplicate characters, increasing password complexity.
-- **Responsive Design:** Fully optimized for mobile and desktop devices, ensuring accessibility on all platforms.
-- **Interactive User Interface:** Features a straightforward and clean interface for easy navigation and operation.
-- **Clipboard Integration:** Allows users to copy passwords directly to the clipboard with just one click for convenience.
+- **Customizable Password Length**: Users can specify the desired length of their passwords, enhancing security.
+- **Character Type Selection**: Includes options for lowercase, uppercase, numbers, and symbols to create varied passwords.
+- **No Duplicate Characters**: An option to exclude duplicate characters, thus increasing password complexity.
+- **Responsive Design**: Fully optimized for both mobile and desktop devices to ensure accessibility across all platforms.
+- **Interactive User Interface**: A straightforward and clean interface for effortless navigation and operation.
+- **Clipboard Integration**: Enables users to copy generated passwords directly to the clipboard with a single click for added convenience.
 
-## Tools and Technologies
+## Tools Used
 
-- **Frontend:** HTML, CSS (using Poppins font and Material Symbols Rounded icons), and JavaScript
-- **Version Control:** Git
-- **Deployment:** GitHub Pages for hosting, with continuous integration and deployment via GitHub Actions.
+- **Frontend**: HTML, CSS (utilizing Poppins font and Material Symbols Rounded icons), and JavaScript.
+- **Version Control**: Git.
+- **Deployment**: Hosted on GitHub Pages, with continuous integration and deployment managed via GitHub Actions.
 
 ## Getting Started
 
-To set up the Password Generator locally, follow these steps:
+Follow these steps to set up the Password Generator on your local machine:
 
 1. **Clone the repository:**
    ```bash
@@ -36,22 +36,18 @@ To set up the Password Generator locally, follow these steps:
 
 ## Contributing
 
-We welcome contributions of all forms. If you're looking to enhance the application or fix a bug, here’s how you can contribute:
+Contributions are highly encouraged! If you would like to improve the application or address a bug, here's how you can help:
 
 1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit (`git commit -am 'Add some feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
+2. Create a new branch for your changes (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -am 'Add some feature'`).
+4. Push to your branch (`git push origin feature-branch`).
+5. Submit a pull request.
 
 ## Contact Information
 
-Should you have any inquiries or suggestions, please contact me via:
+For any questions or suggestions, please reach out to me via:
 
-- **Email**: jayakuma006@mymail.sim.edu.sg
-- **LinkedIn**: [Akilesh Jayakumar](https://www.linkedin.com/in/akileshjayakumar/)
-- **GitHub**: [Akilesh Jayakumar](https://github.com/akileshjayakumar)
-
-## Live Demo
-
-Explore the Password Generator live at: [Password Generator](https://akileshjayakumar.github.io/password-generator/)
+- **Email**: [jayakuma006@mymail.sim.edu.sg](mailto:jayakuma006@mymail.sim.edu.sg)
+- **LinkedIn**: [Akilesh Jayakumar on LinkedIn](https://www.linkedin.com/in/akileshjayakumar/)
+- **GitHub**: [Akilesh Jayakumar on GitHub](https://github.com/akileshjayakumar)
