@@ -1,5 +1,7 @@
 # [Password Generator](https://akileshjayakumar.github.io/password-generator/)
 
+Here is the link to the live site: [https://akileshjayakumar.github.io/password-generator/](https://akileshjayakumar.github.io/password-generator/)
+
 ## Key Features
 
 - **Customizable Password Length**: Users can specify the desired length of their passwords, enhancing security.
@@ -32,12 +34,12 @@ Follow these steps to set up the Password Generator on your local machine:
 
 ## Contributing
 
-Contributions are highly encouraged! If you would like to improve the application or address a bug, here's how you can help:
+Your contributions are welcome! If you have ideas for improvements or new features:
 
 1. Fork the repository.
-2. Create a new branch for your changes (`git checkout -b feature-branch`).
+2. Create a new branch (`git checkout -b feature-branch`).
 3. Commit your changes (`git commit -am 'Add some feature'`).
-4. Push to your branch (`git push origin feature-branch`).
+4. Push to the branch (`git push origin feature-branch`).
 5. Submit a pull request.
 
 ## Contact Information
