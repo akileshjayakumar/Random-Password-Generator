@@ -15,7 +15,7 @@ Here is the link to the live site: [https://akileshjayakumar.github.io/password-
 - **Deployment:**
   - **[GitHub Pages](https://docs.github.com/en/pages)**
 
-## Getting Started
+## Setup
 
 Follow these steps to set up the Password Generator on your local machine:
 
