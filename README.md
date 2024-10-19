@@ -1,19 +1,6 @@
-# Password Generator
+# Random Password Generator
 
 Here is the link to the live site: [https://akileshjayakumar.github.io/password-generator](https://akileshjayakumar.github.io/password-generator/)
-
-## Tech Stack
-
-- **Frontend:**
-  - **[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)**
-  - **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)**
-  - **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
-  
-- **Version Control:**
-  - **[Git](https://git-scm.com/doc)**
-
-- **Deployment:**
-  - **[GitHub Pages](https://docs.github.com/en/pages)**
 
 ## Setup
 
