@@ -1,6 +1,6 @@
 # Random Password Generator
 
-Here is the link to the live site: [https://akileshjayakumar.github.io/password-generator](https://akileshjayakumar.github.io/password-generator/)
+Here is the link to the live site: [https://akileshjayakumar.github.io/password-generator](https://akileshjayakumar.github.io/Random-Password-Generator)
 
 ## Setup
 
